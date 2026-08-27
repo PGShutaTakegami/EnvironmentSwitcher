@@ -23,7 +23,7 @@ Unity 6 向け UPM パッケージ。Development / Staging / Release の 3 環�
 Package Manager → **Add package from git URL...**
 
 ```
-https://github.com/PGShutaTakegami/EnvironmentSwitcher.git
+https://github.com/PGShutaTakegami/EnvironmentSwitcher.git?path=/com.environmentswitcher
 ```
 
 ### ローカル参照
