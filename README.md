@@ -194,7 +194,7 @@ Release ビルド時、`EnvironmentBuildGuard` が以下を検査し、問題が
 
 ## ライセンス
 
-[`LICENSE`](./LICENSE) を参照してください。
+[`LICENSE`](./com.environmentswitcher/LICENSE) を参照してください。
 
 要約（詳細は LICENSE 本文が優先）:
 
